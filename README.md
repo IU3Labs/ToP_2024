@@ -7,14 +7,14 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Романов Никита Максимович
 
-GROUP: IU3-xx
+GROUP: IU3-43B
 
-email: email
+email: ronimax@bk.ru
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. https://github.com/bigronimax/test
+2. https://github.com/bigronimax/LR2
 >>>>>>> origin/tmp
