@@ -3,13 +3,13 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Прохоренко Александр Михайлович
 
-GROUP: IU3-xx
+GROUP: IU3-41B
 
-email: email
+email: prohorenko5@yandex.ru
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. Ссылка на репозиторий из "Задания 2": https://github.com/AprohONE/Homework
+2. Ссылка на репозиторий из "Задания 3": https://github.com/AprohONE/SecLab
