@@ -3,5 +3,4 @@
 ## Почта: darkrupnova@gmail.com
 # Ссылки на репозитории:
 2 задание: https://github.com/Darkrui/Technology-of-programming
-
 3 задание: https://github.com/Darkrui/LabR2
