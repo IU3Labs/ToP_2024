@@ -13,4 +13,3 @@ email: berserger04@mail.ru
 
 1. Ссылка на репозиторий из "Задания 2" https://github.com/denislee16/Num2
 2. Ссылка на репозиторий из "Задания 3" https://github.com/denislee16/Num3
->>>>>>> origin/tmp
