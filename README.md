@@ -3,13 +3,13 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Майоров А. В.
 
-GROUP: IU3-xx
+GROUP: IU3-41
 
-email: email
+email: mergotgy1@gmail.com
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. https://github.com/dependsondefinition/screenshots
+2. https://github.com/dependsondefinition/TheGame
