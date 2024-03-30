@@ -3,13 +3,13 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Цапков Михаил Андреевич
 
-GROUP: IU3-xx
+GROUP: IU3-42
 
-email: email
+email: matsapkov@gmail.com
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. https://github.com/matsapkov/BMSTU_Homework
+2. https://github.com/matsapkov/task3
