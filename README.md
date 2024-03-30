@@ -3,13 +3,13 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Осипов Евгений Михайлович
 
-GROUP: IU3-xx
+GROUP: IU3-43
 
-email: email
+email: 111evgenos111@gmail.com
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. https://github.com/About-to-break/IU3_CRINGE
+2. https://github.com/About-to-break/IU3_CRINGE_2
