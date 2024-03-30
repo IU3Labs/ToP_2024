@@ -7,14 +7,14 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Новичкова Маргарита Александровна
 
-GROUP: IU3-xx
+GROUP: IU3-43Б
 
-email: email
+email: novichkovarita@icloud.com
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. Ссылка на репозиторий из "Задания 2": https://github.com/Ritastrophic/tech_prog_homework
+2. Ссылка на репозиторий из "Задания 3": https://github.com/Ritastrophic/baumans_gate_0
 >>>>>>> origin/tmp
