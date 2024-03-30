@@ -7,7 +7,7 @@ FIO: Линт Артем Дмитриевич
 
 GROUP: IU3-42B
 
-email: email
+email: alint@bk.ru
 
 ## Ссылки на репозитории
 
