@@ -3,13 +3,13 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Ленчин Роман Витальевич
 
-GROUP: IU3-xx
+GROUP: IU3-42Б
 
-email: email
+email: prostoedic@gmail.com
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. https://github.com/hensunft/DZ-PROGA.git
+2. https://github.com/hensunft/task-3-DZ.git
