@@ -7,7 +7,7 @@ FIO: Громаков Даниил Алексеевич
 
 GROUP: IU3-42Б
 
-email: email
+email: danila.gromakov@gmail.com
 
 ## Ссылки на репозитории
 
