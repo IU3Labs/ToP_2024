@@ -3,13 +3,13 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Сергейчик Александра Денисовна
 
-GROUP: IU3-xx
+GROUP: IU3-41Б
 
-email: email
+email: 8aleka.serg@gmail.com
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. https://github.com/La-comte/java-homework
+2. https://github.com/La-comte/BaumansGate
