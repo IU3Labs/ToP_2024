@@ -3,13 +3,13 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO:Казаков Никита Вячеславович
 
-GROUP: IU3-xx
+GROUP: IU3-43
 
-email: email
+email: Chak74wow@gmail.com
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. https://github.com/ChakCage/KAZAKOV-3-43B/tree/main/img-task-1
+2. https://github.com/ChakCage/laba2.4.1/tree/master
